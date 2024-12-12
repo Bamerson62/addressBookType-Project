@@ -1,3 +1,7 @@
-#include <iostream>
 
-int main() { std::cout << "Hello World!\n"; }
+int main() {
+    dateType date(3, 15, 2008);
+    date.printDate();
+
+    return 0;
+}
