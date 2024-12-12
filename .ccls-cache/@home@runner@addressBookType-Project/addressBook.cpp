@@ -1,4 +1,7 @@
 #include "addressBookType.h"
+#include "addressType.h"
+#include "dateType.h"
+#include "extPersonType.h"
 #include <iostream>
 #include <fstream>
 #include <algorithm>
